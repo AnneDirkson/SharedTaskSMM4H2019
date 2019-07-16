@@ -7,3 +7,5 @@ The scripts are Jupyter Notebook (python 3).
 For more detail on this workshop see: https://healthlanguageprocessing.org/smm4h/challenge/
 
 The models themselves are stored at Mendeley Data
+https://data.mendeley.com/datasets/rxfzx6nbvw/2
+
